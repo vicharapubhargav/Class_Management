@@ -1,0 +1,1 @@
+ npm i express mongoose express-session jsonwebtoken bcryptjs cloudinary cookie-parser dotenv ejs express-fileupload validator
